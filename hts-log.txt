@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Jul 2025 12:44:23 at https://jvdninternational.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jvdninternational.com/ -O1 "C:\Users\DEEPAK\Desktop\deepu-personal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:44:24	Warning: 	Found for https://jvdninternational.com/robots.txt
+12:44:24	Warning: 	File has moved from https://jvdninternational.com/robots.txt to http://jvdninternational.com
+12:45:12	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/images/ui-icons_444444_256x240.html (from https://jvdninternational.com/assets/css/jquery-ui.css)
+12:45:12	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/images/ui-icons_555555_256x240.html (from https://jvdninternational.com/assets/css/jquery-ui.css)
+12:45:12	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/images/ui-icons_ffffff_256x240.html (from https://jvdninternational.com/assets/css/jquery-ui.css)
+12:45:12	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/images/ui-icons_777620_256x240.html (from https://jvdninternational.com/assets/css/jquery-ui.css)
+12:45:12	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/images/ui-icons_cc0000_256x240.html (from https://jvdninternational.com/assets/css/jquery-ui.css)
+12:45:12	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/images/ui-icons_777777_256x240.html (from https://jvdninternational.com/assets/css/jquery-ui.css)
+12:45:13	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/openhand.html (from https://jvdninternational.com/assets/css/rs6.css)
+12:45:13	Error: 	"Not Found" (404) at link https://jvdninternational.com/assets/css/closedhand.html (from https://jvdninternational.com/assets/css/rs6.css)
+12:45:13	Error: 	"Not Found" (404) at link https://jvdninternational.com/dummy.png (from https://jvdninternational.com/assets/js/rs6.min.js)
+12:45:13	Error: 	"Not Found" (404) at link https://jvdninternational.com/origin=https:// (from https://jvdninternational.com/assets/js/rs6.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 148 links scanned, 137 files written (12744886 bytes overall) [9249641 bytes received at 184992 bytes/sec], 5362242 bytes transferred using HTTP compression in 64 files, ratio 32%, 13.4 requests per connection
+(10 errors, 2 warnings, 0 messages)
